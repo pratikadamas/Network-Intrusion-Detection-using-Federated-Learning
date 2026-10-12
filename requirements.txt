@@ -1,0 +1,22 @@
+# Core data processing
+numpy
+pandas
+scikit-learn
+
+# Visualization
+matplotlib
+seaborn
+
+# Imbalanced intrusion-detection datasets
+imbalanced-learn
+
+# Utilities
+joblib
+tqdm
+
+# Federated learning (Flower simulation support)
+flwr[simulation]
+
+# Deep Learning (PyTorch + GPU acceleration)
+torch
+torchvision
