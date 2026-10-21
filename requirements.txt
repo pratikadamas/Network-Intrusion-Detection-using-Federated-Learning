@@ -18,5 +18,5 @@ tqdm
 flwr[simulation]
 
 # Deep Learning (PyTorch + GPU acceleration)
-torch
+torch # gpu, torch
 torchvision
